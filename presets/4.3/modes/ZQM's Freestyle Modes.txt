@@ -1,10 +1,10 @@
-#$ TITLE: Default 4.3 Modes and Adjustment settings
+#$ TITLE: ZQM's Freestyle Modes and Adjustments settings
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: MODES
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
-#$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets modes and adjustment ranges to 4.3 defaults
+#$ KEYWORDS: ZQM, mode, modes, adjustments, aux, switch
+#$ AUTHOR: ZQM
+#$ DESCRIPTION: Sets modes and adjustment ranges to ZQM's default
 
 # aux switch settings
 

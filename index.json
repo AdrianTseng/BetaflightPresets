@@ -185,7 +185,8 @@
       "sugarK",
       "switch",
       "tune",
-      "vtx"
+      "vtx",
+      "ZQM"
     ]
   },
   "presets": [
@@ -226,23 +227,22 @@
     },
     {
       "fullPath": "presets/4.3/modes/ZQM's Freestyle Modes.txt",
-      "hash": "aa535b9a01113139b1b0182c3e27019b2341021ca57d0d7abb7e6557c15acae6",
-      "title": "Default 4.3 Modes and Adjustment settings",
+      "hash": "d382d308078eb3c14b417dcfedcebcd00947a8ceaa331398fcd5b65959e87a91",
+      "title": "ZQM's Freestyle Modes and Adjustments settings",
       "firmware_version": [
         "4.3"
       ],
       "category": "MODES",
       "status": "OFFICIAL",
       "keywords": [
-        "defaults",
-        "reset",
+        "ZQM",
         "mode",
         "modes",
         "adjustments",
         "aux",
         "switch"
       ],
-      "author": "Betaflight",
+      "author": "ZQM",
       "priority": 0
     },
     {
@@ -268,19 +268,19 @@
     },
     {
       "fullPath": "presets/4.3/osd/ZQM's OSD.txt",
-      "hash": "f591dc88f901698c1981af14442e9e17be464a80af139976816ac3c2b06d4d85",
-      "title": "Default 4.3 OSD settings",
+      "hash": "503d3ded8e6d08a3bd526139ba746a1dfdb5b257163edcf957e975a7fffb6433",
+      "title": "ZQM's OSD settings",
       "firmware_version": [
         "4.3"
       ],
       "category": "OSD",
       "status": "OFFICIAL",
       "keywords": [
-        "defaults",
-        "reset",
+        "freestyle",
+        "ZQM",
         "OSD"
       ],
-      "author": "Betaflight",
+      "author": "ZQM",
       "priority": 0
     },
     {
@@ -448,15 +448,15 @@
     },
     {
       "fullPath": "presets/4.3/rates/ZQM Freestyle.txt",
-      "hash": "522eb08e2b0d2cb4518d66ea1457ca8473f9e6ef35e7dd0df1fe766d745142f0",
-      "title": "Default rates",
+      "hash": "2c462d7e896d9746699648cf11c8d67342a79513dce80da34766f3ca174113e1",
+      "title": "ZQM's Freestyle rates",
       "firmware_version": [
         "4.3"
       ],
       "category": "RATES",
       "status": "OFFICIAL",
       "keywords": [
-        "defaults",
+        "ZQM",
         "rates",
         "actual",
         "freestyle"
@@ -541,20 +541,18 @@
     },
     {
       "fullPath": "presets/4.3/vtx/Tanso V2.txt",
-      "hash": "a4e7887f0ff8d5694379ab5244ed3bbc3eb3bcc61f609b4b88c49cefdd57fb80",
-      "title": "Default 4.3 VTX settings",
+      "hash": "38982f6bd8a78ab89f6219f98bc96d71a470792feb66027e2781af58fa893b44",
+      "title": "ZQM's Tanso VTX Settings",
       "firmware_version": [
         "4.3"
       ],
       "category": "VTX",
       "status": "OFFICIAL",
       "keywords": [
-        "defaults",
-        "reset",
-        "clear",
+        "ZQM",
         "vtx"
       ],
-      "author": "Betaflight",
+      "author": "ZQM",
       "priority": 1000000
     },
     {

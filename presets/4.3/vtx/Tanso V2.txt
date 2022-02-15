@@ -1,10 +1,10 @@
-#$ TITLE: Default 4.3 VTX settings
+#$ TITLE: ZQM's Tanso VTX Settings
 #$ FIRMWARE_VERSION: 4.3
 #$ CATEGORY: VTX
 #$ STATUS: OFFICIAL
-#$ KEYWORDS: defaults, reset, clear, vtx
-#$ AUTHOR: Betaflight
-#$ DESCRIPTION: Resets VTx settings and table back to 4.3 Defaults
+#$ KEYWORDS: ZQM, vtx
+#$ AUTHOR: ZQM
+#$ DESCRIPTION: Sets Tanso V2 VTx settings and table to ZQM's Defaults
 #$ DESCRIPTION: Only the checked settings will be reset
 
 # reset basic Vtx settings
