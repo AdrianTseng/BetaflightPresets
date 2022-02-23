@@ -191,6 +191,23 @@
   },
   "presets": [
     {
+      "fullPath": "presets/4.3/filters/Johnny J5 Freestyle.txt",
+      "hash": "7293e547fbcb8bce32fc97ba6fe30f615ff6f38691274da07e4ca09f3e1e45dd",
+      "title": "Johnny J5 filters (ICM 20602)",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "filter",
+        "filters",
+        "reset"
+      ],
+      "author": "ZQM",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "cd9af0626bc1e8be0738e39995b8d77b0494ee78b83815d4dab261d66c5ae5fd",
       "title": "Default 4.3 Filter settings",
@@ -517,6 +534,26 @@
         "rc_smoothing"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/tune/Johnny J5 Freestyle.txt",
+      "hash": "4a64a8e0ac9f105d5146747619ff6b2f22c3d79e2d73fa83b79d7e57de0d69e7",
+      "title": "Johnny J5 Freestyle TUNES for 6S",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "ZQM",
       "priority": 0
     },
     {
