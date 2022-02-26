@@ -24,26 +24,26 @@ set d_pitch = 33
 set f_pitch = 135
 set p_roll = 59
 set i_roll = 58
-set d_roll = 29
+set d_roll = 32
 set f_roll = 124
 set p_yaw = 59
 set i_yaw = 74
-set d_yaw = 29
+set d_yaw = 31
 set f_yaw = 124
 
 # -- PID Sliders --
 set simplified_pids_mode = RP
 set simplified_master_multiplier = 115
 set simplified_i_gain = 55
-set simplified_d_gain = 85
+set simplified_d_gain = 95
 set simplified_pi_gain = 115
 set simplified_dmax_gain = 0
 set simplified_feedforward_gain = 90
-set simplified_pitch_d_gain = 100
+set simplified_pitch_d_gain = 90
 set simplified_pitch_pi_gain = 105
 
 # -- iTerm relax --
-set iterm_relax = RPY
+set iterm_relax = RPY_INC
 set iterm_relax_type = SETPOINT
 set iterm_relax_cutoff = 15
 
@@ -161,7 +161,7 @@ set dshot_idle_value = 400
 # -- Dyn Idle  --
 # Commonly enabled to improve turns and minimise desyncs
 # Since every preset resets this to off, users with desync prone builds will have to re-apply their personal values after this reset
-set dyn_idle_min_rpm = 34
+set dyn_idle_min_rpm = 35
 set dyn_idle_p_gain = 50
 set dyn_idle_i_gain = 50
 set dyn_idle_d_gain = 50
@@ -233,7 +233,7 @@ set rc_smoothing_debug_axis = ROLL
 
 # -- VBat sag compensation (off, default) --
 # Most pilots find that full sag compensation is better than off
-# set vbat_sag_compensation = 80
+# set vbat_sag_compensation = 100
 # set vbat_sag_lpf_period = 2
 
 # -- Constrain arming within a limited range (default 25 degrees) --

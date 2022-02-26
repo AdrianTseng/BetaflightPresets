@@ -191,8 +191,25 @@
   },
   "presets": [
     {
+      "fullPath": "presets/4.3/filters/65mm Whoop.txt",
+      "hash": "46235e94a0010305876762b7c750ad59d537c2a525fb292b1850073ff4ed8890",
+      "title": "Whoops",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "filter",
+        "filters",
+        "reset"
+      ],
+      "author": "ZQM",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.3/filters/Johnny J5 Freestyle.txt",
-      "hash": "7293e547fbcb8bce32fc97ba6fe30f615ff6f38691274da07e4ca09f3e1e45dd",
+      "hash": "b69409467681a6bbfea8203528a0ab61ec2ef64ce9b7f501abe6cb8035328335",
       "title": "Johnny J5 filters (ICM 20602)",
       "firmware_version": [
         "4.3"
@@ -244,7 +261,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/ZQM's Freestyle Modes.txt",
-      "hash": "d382d308078eb3c14b417dcfedcebcd00947a8ceaa331398fcd5b65959e87a91",
+      "hash": "a635ba29c153d9b6306fb548ba08cf1b047706bc8ca0660c2e1ef00c6e78df09",
       "title": "ZQM's Freestyle Modes and Adjustments settings",
       "firmware_version": [
         "4.3"
@@ -281,6 +298,26 @@
         "switch"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/whoop Modes.txt",
+      "hash": "e42dde73e91d0582d03d68184069af6c697d2b57abf3ede6aae5602992992e82",
+      "title": "Whoop Modes",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "ZQM",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "ZQM",
       "priority": 0
     },
     {
@@ -465,7 +502,7 @@
     },
     {
       "fullPath": "presets/4.3/rates/ZQM Freestyle.txt",
-      "hash": "2c462d7e896d9746699648cf11c8d67342a79513dce80da34766f3ca174113e1",
+      "hash": "53bcc686cc763218eaf25024aaccaa0f4ed21eba4a8cb7ddcfaed3e98f15501e",
       "title": "ZQM's Freestyle rates",
       "firmware_version": [
         "4.3"
@@ -537,8 +574,28 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/tune/65mm whoops.txt",
+      "hash": "4627bb393fc2d9f50d298863478c36a1960f90b6dcbdf6e380cefef9ca6166b0",
+      "title": "65mm whoops TUNES",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "ZQM",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/tune/Johnny J5 Freestyle.txt",
-      "hash": "4a64a8e0ac9f105d5146747619ff6b2f22c3d79e2d73fa83b79d7e57de0d69e7",
+      "hash": "22635a6c221b913061890ac199c26e8dd0ffb416c90f8a5adbe525d6f07866a9",
       "title": "Johnny J5 Freestyle TUNES for 6S",
       "firmware_version": [
         "4.3"

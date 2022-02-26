@@ -8,17 +8,18 @@
 
 # -- Gyro lowpass filters --
 set gyro_lpf1_type = PT1
-set gyro_lpf1_dyn_min_hz = 250
-set gyro_lpf1_dyn_max_hz = 500
-set gyro_lpf1_dyn_expo = 5
-set gyro_lpf1_static_hz = 250
-
 set gyro_lpf2_type = PT1
-set gyro_lpf2_static_hz = 500
+
+set gyro_lpf1_dyn_min_hz = 0
+set gyro_lpf1_dyn_max_hz = 675
+set gyro_lpf1_dyn_expo = 5
+
+set gyro_lpf1_static_hz = 0
+set gyro_lpf2_static_hz = 700
 
 # -- Gyro sliders --
 set simplified_gyro_filter = ON
-set simplified_gyro_filter_multiplier = 100
+set simplified_gyro_filter_multiplier = 140
 
 # -- Gyro Static Notches --
 set gyro_notch1_hz = 0
@@ -36,7 +37,7 @@ set gyro_filter_debug_axis = ROLL
 # -- RPM filtering --
 set rpm_filter_harmonics = 3
 set rpm_filter_q = 650
-set rpm_filter_min_hz = 100
+set rpm_filter_min_hz = 90
 set rpm_filter_fade_range_hz = 50
 set rpm_filter_lpf_hz = 150
 
@@ -54,8 +55,6 @@ set dterm_notch_cutoff = 0
 # -- Dterm sliders --
 set simplified_dterm_filter = OFF
 set simplified_dterm_filter_multiplier = 105
-set simplified_gyro_filter = ON
-set simplified_gyro_filter_multiplier = 135
 
 # -- Yaw lowpass --
 set yaw_lowpass_hz = 100
