@@ -225,6 +225,23 @@
       "priority": 100
     },
     {
+      "fullPath": "presets/4.3/filters/Oddity RC 2.5.txt",
+      "hash": "afce0c295dcde31ab50aebbf4035c753bd2ad3e0be9199224b60917f5b03d28e",
+      "title": "Oddity RC 2.5",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "FILTERS",
+      "status": "OFFICIAL",
+      "keywords": [
+        "filter",
+        "filters",
+        "reset"
+      ],
+      "author": "ZQM",
+      "priority": 100
+    },
+    {
       "fullPath": "presets/4.3/filters/defaults.txt",
       "hash": "cd9af0626bc1e8be0738e39995b8d77b0494ee78b83815d4dab261d66c5ae5fd",
       "title": "Default 4.3 Filter settings",
@@ -261,7 +278,7 @@
     },
     {
       "fullPath": "presets/4.3/modes/ZQM's Freestyle Modes.txt",
-      "hash": "a635ba29c153d9b6306fb548ba08cf1b047706bc8ca0660c2e1ef00c6e78df09",
+      "hash": "3bb68159e48f2ec5ab5bf77768773355bf127087bd60e3d7e8dad099339249d7",
       "title": "ZQM's Freestyle Modes and Adjustments settings",
       "firmware_version": [
         "4.3"
@@ -614,6 +631,26 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/tune/Oddity RC 2.5.txt",
+      "hash": "b3ad172e268b6d99ef31c8517939e7d8a7a3dcb3c5c41969f0f46f2b37fa8598",
+      "title": "Oddity RC 2.5 TUNES for 4S",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "TUNE",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "tune",
+        "pid",
+        "basic",
+        "default"
+      ],
+      "author": "ZQM",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/tune/defaults.txt",
       "hash": "a34613c8541c3bf5611d5d3596ece890b902fd8d2378e7f6a03b60a59b61230b",
       "title": "Tune defaults for Basic 4.3 TUNES",
@@ -632,6 +669,22 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/vtx/Rush Tiny.txt",
+      "hash": "2b297884cd8fd41b14b7e12c167c53e4137dc28dc6e53547e4469e18f40cab80",
+      "title": "ZQM's Rush Tiny Settings",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "VTX",
+      "status": "OFFICIAL",
+      "keywords": [
+        "ZQM",
+        "vtx"
+      ],
+      "author": "ZQM",
+      "priority": 1000000
     },
     {
       "fullPath": "presets/4.3/vtx/Tanso V2.txt",
